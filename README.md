@@ -1,5 +1,4 @@
 # LZW
-LZW Algorithm
 
 The Lempel–Ziv–Welch (LZW) algorithm is a lossless data compression algorithm.
 
